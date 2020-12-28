@@ -55,7 +55,7 @@
         },
         {
           "title": "资源管理",
-          "href": "page/home.html",
+          "href": "page/ResourceManager.html",
           "icon": "fa fa-dot-circle-o",
           "target": "_self"
         },
@@ -95,13 +95,13 @@
         },
         {
           "title": "直接绘图",
-          "href": "page/DirectDraw.html",
+          "href": "page/ResultShow3.html",
           "icon": "fa fa-superpowers",
           "target": "_self"
         },
         {
           "title": "结果展示",
-          "href": "page/ResultShow.html",
+          "href": "page/ResultShow2.html",
           "icon": "fa fa-superpowers",
           "target": "_self"
         }
